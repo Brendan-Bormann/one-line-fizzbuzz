@@ -1,0 +1,1 @@
+for(i=0;i<101;i++)console.log((!(i%3||i%5))?'FizzBuzz':i && (!(i%3))?'Fizz':i && (!(i%5))?'Buzz':i);
